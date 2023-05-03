@@ -14,7 +14,7 @@ avoir une synchronisation d’horloge
 #### Machine 1: Serveur
 
 #### output
-[capture1](https://user-images.githubusercontent.com/74620773/236060565-effa6066-559b-4050-8431-545a83dcfa30.png)
+
 
 
 #### Machine 2: Client
