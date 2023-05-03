@@ -14,9 +14,11 @@ avoir une synchronisation d’horloge
 #### Machine 1: Serveur
 
 #### output
-![2ytxvy0x08t71](https://user-images.githubusercontent.com/80646711/236058600-7c5e47b0-08d2-43fd-a97e-fb971cf6db66.jpeg)
+![2ytxvy0x08t71](https://user-images.githubusercontent.com/80646711/236058600-7c5e47b0-08d2-43fd-a97e-fb971cf6db66.jpeg)![capture1](https://user-images.githubusercontent.com/74620773/236060565-effa6066-559b-4050-8431-545a83dcfa30.png)
+
 
 #### Machine 2: Client
+![capture1](https://user-images.githubusercontent.com/74620773/236060193-78ef15b5-d106-4684-a6ac-6ed18af79c2a.png)
 
 #### output
 ## Configuration du DNS
